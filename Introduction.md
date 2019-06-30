@@ -1,6 +1,7 @@
 
 # Introduction #
-## Problem ##
+
+## Problem ##
 When moving to a new city, how do we know which neighbourhoods are safe?
 
 ## Background ##
