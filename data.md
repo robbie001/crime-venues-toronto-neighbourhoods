@@ -10,8 +10,8 @@ Lastly, I will use the Foursquare API to examine the venues in Toronto neighbour
 ## Solving the Problem ##
 With the above data, I will explore neighbourhoods in Toronto, the largest city in my home country, and look for correlations between crime rate and venue types.
 
-I will use the Toronto Police Service serious-crime data for the most recent year, 2018. Through k-means clustering, I will group neighbourhoods by venues and examine the crime rates of the neighbourhoods in each group. If neighbourhoods with similar venues have similar crime rates, then I will suggest possible reasons for the correlation.
+I will use the Toronto Police Service serious-crime data for the most recent year, 2018. Through k-means clustering, I will group neighbourhoods by venues and examine the crime rates of the neighbourhoods in each cluster. If neighbourhoods with similar venues have similar crime rates, then I will suggest possible reasons for the correlation.
 
-Time permitting, I will create a logistic regression model to try and predict the crime rates of neighbourhoods based on their venues. For independent variables, I will one-hot encode the venues for each neighbourhood. For the dependent variable or label, I will use the crime rate of each neighbourhood. 
+Time permitting, I will create a logistic regression model to try and predict the crime rates of neighbourhoods based on their venues. For independent variables, I will one-hot encode the venues for each neighbourhood. For the dependent variable or label, I will use the crime rate of each neighbourhood. Again, this is time permitting. 
 
 If there is no apparent correlation between venue type and crime rate, it will refute the idea that a particular venue such as Walmart – or a combination of venues – can be used to predict the safety of a neighbourhood. 
