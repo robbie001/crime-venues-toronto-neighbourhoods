@@ -1,10 +1,10 @@
 # Data #
 
 ## Description ##
-I will use the Toronto Police Service Public Safety Data Portal site (https://data.torontopolice.on.ca/datasets/neighbourhood-crime-rates-boundary-file-) for crime data by neighbourhood. The Toronto Police Service stores data on serious crime (assault, auto theft, break and enter, robbery, theft over $5,000 and homicide) by neighbourhood for the years 2014 to 2018. 
+I will use the [Toronto Police Service Public Safety Data Portal site] (https://data.torontopolice.on.ca/datasets/neighbourhood-crime-rates-boundary-file-) for crime data by neighbourhood. The Toronto Police Service stores data on serious crime (assault, auto theft, break and enter, robbery, theft over $5,000 and homicide) by neighbourhood for the years 2014 to 2018. 
 
 
-I will also use the Wikipedia List of Postal Codes of Canada site (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) for Toronto postal codes. This can provide neighbourhood geographical coordinates (latitude and longitude). 
+I will also use the [Wikipedia List of Postal Codes of Canada site] (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) for Toronto postal codes. This can provide neighbourhood geographical coordinates (latitude and longitude). 
 
 Lastly, I will use the Foursquare API to examine the venues in Toronto neighbourhoods.
 
